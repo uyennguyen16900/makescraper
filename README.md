@@ -1,6 +1,6 @@
 # 🕷 makescraper
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/YOUR_GITHUB_USERNAME/makescraper)](https://goreportcard.com/report/github.com/YOUR_GITHUB_USERNAME/makescraper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/YOUR_GITHUB_USERNAME/makescraper)](https://goreportcard.com/report/github.com/uyennguyen16900/makescraper)
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
@@ -49,13 +49,13 @@ _Complete each task in the order they appear. Use [GitHub Task List](https://hel
 
 ##### Stretch Challenges
 
-- [ ] Add more fields to your `struct`. Extract multiple data points from the website. Print them to `stdout` in a readable format.
+- [x] Add more fields to your `struct`. Extract multiple data points from the website. Print them to `stdout` in a readable format.
 
 #### Serializing & Saving
 
 - [x] Serialize the `struct` you created to JSON. Print the JSON to `stdout` to validate it.
 - [x] Write scraped data to a file named `output.json`.
-- [ ] **Add, commit, and push to GitHub**.
+- [x] **Add, commit, and push to GitHub**.
 
 ## Resources
 
